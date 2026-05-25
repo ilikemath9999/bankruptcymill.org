@@ -29,9 +29,9 @@ Home›Bankruptcy Mills›Bankruptcy Mill Outcomes: What the Data Shows
 
 Bankruptcy Mill Outcomes: What the Data Shows
 
-Federal court data from 4.9 million cases reveals measurable patterns in attorney performance
+Federal court data from 8 million cases reveals measurable patterns in attorney performance
 
-The question of whether attorney choice affects bankruptcy outcomes is not a matter of opinion. Federal court records provide clear, measurable answers. When you analyze 4.9 million bankruptcy cases across all 94 federal districts, patterns emerge that are difficult to explain as anything other than differences in the quality of representation.
+The question of whether attorney choice affects bankruptcy outcomes is not a matter of opinion. Federal court records provide clear, measurable answers. When you analyze 8 million bankruptcy cases across all 94 federal districts, patterns emerge that are difficult to explain as anything other than differences in the quality of representation.
 
 The National Picture
 
@@ -43,7 +43,7 @@ National Ch. 13 dismissal rate
 
 Estimated Ch. 13 total failure rate
 
-4.9M
+8M
 
 Cases in the federal dataset
 
@@ -222,7 +222,7 @@ Your choice of attorney significantly affects your outcome. Here is how to find 
 
 Why attorney choice matters
 
-According to FJC data covering 4.9 million cases across 94 federal districts, attorney quality is one of the strongest predictors of bankruptcy outcome. Within the same district, some attorneys achieve Chapter 13 completion rates above 50%, while others fall below 15%. The difference can mean tens of thousands of dollars in wasted fees and plan payments.
+According to FJC data covering 8 million cases across 94 federal districts, attorney quality is one of the strongest predictors of bankruptcy outcome. Within the same district, some attorneys achieve Chapter 13 completion rates above 50%, while others fall below 15%. The difference can mean tens of thousands of dollars in wasted fees and plan payments.
 
 Where to search
 
@@ -757,7 +757,7 @@ National Ch.13 dismissal rate (cases dismissed without discharge)
 
 Estimated Ch.13 failure rate when including all non-discharge outcomes
 
-4.9M
+8M
 
 Federal bankruptcy cases analyzed across all 94 districts
 
@@ -787,7 +787,7 @@ Red Flags in Attorney Advertising
 
 Data on Attorney Outcomes
 
-Analysis of 4.9 million federal bankruptcy cases reveals wide gaps in attorney performance within the same courthouse. Some attorneys dismiss 40%+ of cases while peers achieve under 15%.
+Analysis of 8 million federal bankruptcy cases reveals wide gaps in attorney performance within the same courthouse. Some attorneys dismiss 40%+ of cases while peers achieve under 15%.
 
 How to Find a Good Attorney
 
@@ -1503,7 +1503,7 @@ How to tell if your bankruptcy attorney is running a high-volume practice that p
 
 What the data shows
 
-Federal court records covering 4.9 million bankruptcy cases reveal dramatic variation in attorney outcomes. Within the same district, some attorneys achieve Chapter 13 completion rates above 50%, while others fall below 15%. The difference often comes down to the level of individual attention each case receives.
+Federal court records covering 8 million bankruptcy cases reveal dramatic variation in attorney outcomes. Within the same district, some attorneys achieve Chapter 13 completion rates above 50%, while others fall below 15%. The difference often comes down to the level of individual attention each case receives.
 
 1. "No money down" advertising
 
@@ -1907,7 +1907,7 @@ About 60-67% of Chapter 13 cases end in dismissal. Understanding why can help yo
 
 The scale of the problem
 
-According to FJC data covering 4.9 million cases across 94 federal districts, the majority of Chapter 13 bankruptcy cases do not result in a discharge. The national failure rate is approximately 60-67%, meaning roughly two out of every three filers do not complete their repayment plans.
+According to FJC data covering 8 million cases across 94 federal districts, the majority of Chapter 13 bankruptcy cases do not result in a discharge. The national failure rate is approximately 60-67%, meaning roughly two out of every three filers do not complete their repayment plans.
 
 Leading causes of Chapter 13 failure
 
